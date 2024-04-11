@@ -1,2 +1,1 @@
-# Gpt-articles
-A website where you can generate articles with ChatGpt with images.
+A web browser homepage with a random joke and a random image as background.
